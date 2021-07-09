@@ -4,4 +4,6 @@
 
 - Vinit
 
-## Trainees
+## Trainee
+
+- Raman
