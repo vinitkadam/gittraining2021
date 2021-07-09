@@ -5,3 +5,6 @@
 - Vinit
 
 ## Trainees
+
+- Milind
+
