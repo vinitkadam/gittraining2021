@@ -7,4 +7,6 @@
 ## Trainees
 - Yusuf
 - Deep Pathak
+- GAURAV KATARE
 - Sharath
+
