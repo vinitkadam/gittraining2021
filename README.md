@@ -5,3 +5,5 @@
 - Vinit
 
 ## Trainees
+
+- Madhur Kalia
