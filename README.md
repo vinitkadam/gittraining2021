@@ -6,4 +6,5 @@
 
 ## Trainees
 
-- Madhur Kalia
+- Yusuf
+- Madhur
