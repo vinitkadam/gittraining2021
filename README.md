@@ -5,4 +5,7 @@
 - Vinit
 
 ## Trainees
-Devanshu gupta
+
+- Devanshu gupta
+
+- Yusuf
