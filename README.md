@@ -5,4 +5,6 @@
 - Vinit
 
 ## Trainees
+- Yusuf
 - Deep Pathak
+
