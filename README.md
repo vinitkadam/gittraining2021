@@ -4,6 +4,7 @@
 
 - Vinit
 
-Gagan Sharma gagan.s@media.net
+Gagan Sharma - name 
+gagan.s@media.net - email
 
 ## Trainees
