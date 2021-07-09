@@ -6,5 +6,5 @@
 
 ## Trainees
 - Yusuf
--GAURAV KATARE
+- GAURAV KATARE
 
