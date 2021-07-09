@@ -5,5 +5,5 @@
 - Vinit
 
 ## Trainees
--Indrajit Sinha
--indrajit.s@media.net
+- Yusuf
+- Indrajit Sinha
