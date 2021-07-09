@@ -7,7 +7,6 @@
 
 ## Trainees
 - Yusuf
-- Raman
 - GAURAV KATARE
 - Sharath
 - Raman
