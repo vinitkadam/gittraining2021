@@ -6,4 +6,6 @@
 
 ## Trainees
 - Yusuf
+- GAURAV KATARE
+- Sharath
 - Aniruddha
