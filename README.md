@@ -5,7 +5,7 @@
 - Vinit
 
 ## Trainees
-
 - Yusuf
+- GAURAV KATARE
 - Sharath
 - Bhavya
