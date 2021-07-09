@@ -4,4 +4,6 @@
 
 - Vinit
 
+Gagan Sharma gagan.s@media.net
+
 ## Trainees
