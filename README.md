@@ -5,4 +5,5 @@
 - Vinit
 
 ## Trainees
-Aniruddha
+- Yusuf
+- Aniruddha
