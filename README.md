@@ -6,4 +6,6 @@
 
 ## Trainees
 
+- Yusuf
 - Chirag Gupta
+
