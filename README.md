@@ -5,3 +5,5 @@
 - Vinit
 
 ## Trainees
+-Indrajit Sinha
+-indrajit.s@media.net
