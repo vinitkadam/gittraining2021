@@ -5,4 +5,4 @@
 - Vinit
 
 ## Trainees
-Deep Pathak
+- Deep Pathak
