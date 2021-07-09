@@ -5,6 +5,8 @@
 - Vinit
 
 ## Trainees
-
 - Yusuf
 - Ayush
+- GAURAV KATARE
+- Sharath
+
