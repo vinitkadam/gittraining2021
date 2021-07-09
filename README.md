@@ -5,3 +5,4 @@
 - Vinit
 
 ## Trainees
+Aniruddha Mahajan
