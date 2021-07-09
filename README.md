@@ -3,5 +3,5 @@
 ## Trainers:
 
 - Vinit
-
+- Preeyadarshee Dev
 ## Trainees
