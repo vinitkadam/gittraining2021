@@ -3,6 +3,10 @@
 ## Trainers:
 
 - Vinit
+- Rohan
+- Avasyu
+- Abhishek
+- Harshit
 
 ## Trainees
 - Yusuf
