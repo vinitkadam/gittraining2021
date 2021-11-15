@@ -9,6 +9,7 @@
 - Harshit
 
 ## Trainees
+- Rahul Karmakar
 - Yusuf
 - GAURAV KATARE
 - Sharath
